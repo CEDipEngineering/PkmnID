@@ -48,6 +48,7 @@ Dados do tamanho devido e adicionados os dados rotacionados separados para trein
 
 - Modelo Bag of Visual Words, e parte da análise exploratória produzidos por/com assistência de Fábio Ayres.
 - Dataset: [Pokémon Gen One](https://www.kaggle.com/thedagger/pokemon-generation-one/data) da plataforma Kaggle.com
+- https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html
 
 
 
